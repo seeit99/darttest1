@@ -30,6 +30,7 @@ pipeline {
             steps {
                 echo 'Cleaning..'
                 echo 'Running docker rmi..'
+                echo 'test'
             }
         }
     }
